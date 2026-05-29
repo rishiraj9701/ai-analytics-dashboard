@@ -1,0 +1,6 @@
+{
+  "name": "AI Analytics Dashboard",
+  "description": "A premium modern SaaS AI analytics dashboard with real-time analytics charts, team management, project boards, settings, and interactive server-side Gemini AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
